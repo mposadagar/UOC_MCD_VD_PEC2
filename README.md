@@ -12,9 +12,12 @@ Se han utilizado los datos del Censo Electoral de españoles residentes en el ex
 ## Técnicas de visualización utilizadas:
 ### GRUPO I - Técnicas básicas y populares:
  #### Choropleth Map
+ PAC2_A_Choropleth Map.png
 
 ### GRUPO II - Técnicas habituales y específicas:
  #### Nightingale Chart
+ PAC2_B_Nightingale Chart.png
 
 ### GRUPO III - Técnicas menos habituales o más específicas:
  #### Tile grid Map
+ PAC2_C_Grid Map.png
